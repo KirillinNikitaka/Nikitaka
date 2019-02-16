@@ -1,0 +1,11 @@
+@font-face{
+	font-family: BULBA;
+}
+h5{
+	font-family: BULBA;
+	font-size: 100px;
+}
+button{
+	height: 80px;
+	width: 200px;
+}
